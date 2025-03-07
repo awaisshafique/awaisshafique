@@ -4,31 +4,52 @@
   Feel free to update or remove sections as desired.
 -->
 
-# Hi there, I'm Muhammad Awais Shafique! 👋
+# Hi there, I'm **Muhammad Awais Shafique**! 👋
 
-<p align="center">
-  <!-- Optionally replace or remove the banner below. 
-       If you add an image named "banner.png" to a folder "assets" in your repo,
-       you can uncomment this line and use the correct path. -->
-  <!-- <img src="https://github.com/awaisshafique/awaisshafique/blob/main/assets/banner.png" alt="Banner"/> -->
-</p>
-
-I’m a passionate developer focused on **Cloud Computing**, **Web Development**, and **Open Source**.  
-I enjoy building projects that solve real-world problems and love exploring new technologies to broaden my skill set.
+I’ve been **passionately working** in the game development industry for **7+ years**, specializing in the **Unity 3D** engine. My journey has allowed me to **develop and release multiplatform games**—across **Amazon**, **Google Play**, **Apple App Store**, **CrazyGames**, and more—spanning diverse genres like **action**, **simulation**, **idle**, **hyper-casual**, and even **metaverse** projects. Beyond coding, I’m deeply involved in **advanced analytics**, **plugin integrations**, and **team leadership**, ensuring each title provides a seamless, engaging experience.
 
 ---
 
 ## ⚡ Quick Facts About Me
 
-- 🌱 **Currently Learning**: Containerization with Docker, Kubernetes, and advanced React features.  
-- 💬 **Ask Me About**: Web Development (HTML, CSS, JS, React), Node.js, Python, or any of my repository projects.  
-- 🎯 **2023 Goals**: 
-  - Launch more **open-source** projects 
-  - Grow my expertise in **DevOps**  
-  - Contribute to cutting-edge, meaningful repositories  
-- ☕ **Fun Fact**: I’m fueled by coffee and am known to code into the late hours!
+- **Hands-On Experience**:  
+  - Integrating various **analytics SDKs** and **ad network SDKs**  
+  - Optimizing game performance for **mobile** devices  
+  - Reducing **WebGL build sizes** through specialized methods and techniques  
+
+- **Technical Focus**:  
+  - **Player retention**, **feature optimization**, and **workflow improvements**  
+  - Proficient in **AR/VR** and **WebGL** environments  
+
+- **Current Exploration**:  
+  - Mastering **Unity’s newest features**  
+  - Diving deeper into **advanced game analytics** and **retention analysis** for a better player experience  
+
+- **Dev Approach**:  
+  - Applying **SOLID principles** and **design patterns**  
+  - Optimizing for **low-end devices**  
+  - Managing teams and projects with **Trello** and **Jira**  
+
+- **Fun Fact**:  
+  - I’ve contributed to **popular hyper-casual games**  
+  - Helped **build a metaverse** platform, pushing the boundaries of interactive entertainment  
 
 ---
+
+<!-- 
+  You can add more sections here, such as "Projects," "Contact," "Social Links," or "How to Reach Me."
+  For instance:
+  
+  ## 🌐 Connect with Me
+  - [LinkedIn](#) | [Twitter](#) | [Portfolio](#)
+  
+  ## 🚀 Featured Projects
+  - [Project 1](#)
+  - [Project 2](#)
+  
+  etc.
+-->
+
 
 ## 🛠 Tech & Tools
 
