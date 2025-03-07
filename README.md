@@ -81,6 +81,46 @@ I’ve been **passionately working** in the game development industry for **7+ y
 
 ---
 
+## Unity Addressables: Key Highlights
+
+- **What They Are**  
+  - A labeling system within Unity that streamlines the process of loading and unloading game assets on demand.
+
+- **Why They’re Essential**  
+  1. **Faster Start-Up**  
+     - Only load core game elements initially—crucial when dealing with size limits (often 15 MB) on web platforms.
+  2. **Optimized Memory Usage**  
+     - Free up memory by unloading assets once they’re no longer needed.
+  3. **Efficient Updates**  
+     - Update or replace specific asset bundles instead of rebuilding the entire project.
+  4. **Organized Asset Management**  
+     - Prevent duplicate files and track dependencies automatically.
+
+- **Ideal for Web Platforms**  
+  - **Minimal Initial Download**: Speed up player access by loading extra content later.
+  - **On-Demand Asset Streaming**: Large levels, textures, or audio can be fetched asynchronously.
+  - **Better Retention**: Rapid loading keeps players engaged.
+
+- **Workflow Overview**  
+  1. **Label Assets**: Assign tags (e.g., “Level1” or “Enemies”).
+  2. **Bundle Creation**: Unity groups assets under these labels.
+  3. **Load As Needed**: Use `Addressables.LoadAssetAsync()` to bring them in at runtime.
+  4. **Unload to Save Memory**: Remove bundles not in use.
+  5. **Remote Hosting (Optional)**: Keep large bundles on a server and download them selectively.
+
+- **Practical Tips**  
+  1. **Plan Asset Splits**: Decide which assets are essential for initial load.
+  2. **Use Meaningful Labels**: Consistent naming conventions aid organization.
+  3. **Monitor Performance**: Test on multiple devices and networks.
+  4. **Leverage CI**: Automate bundle builds and uploads for quick patches.
+
+- **Why It Makes a Difference**  
+  - **Improved Performance**: Eliminates loading overhead for unnecessary assets.
+  - **Scalability**: Easily incorporate additional content over time.
+  - **Enhanced Player Experience**: Fast loading, smooth updates, and reduced file sizes.
+
+---
+
 ## 🌐 Connect with Me
 
 <p>
