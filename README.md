@@ -1,7 +1,4 @@
-<!--
-  README for awaisshafique/awaisshafique
-  Author: Muhammad Awais Shafique
--->
+<!-- README for awaisshafique/awaisshafique -->
 
 # Hi there, I'm **Muhammad Awais Shafique**! 👋
 
@@ -87,13 +84,10 @@ I’ve been **passionately working** in the game development industry for **7+ y
 ## 🌐 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/awaisshafique">
+  <a href="https://www.linkedin.com/in/awais-shafique-832895124">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="mailto:your_email_here@outlook.com">
-    <img src="https://img.shields.io/badge/-Outlook-0078D4?logo=microsoft-outlook&logoColor=white" alt="Outlook Badge" />
+  <a href="mailto:awais.shafique71@outlook.com">
+    <img src="https://img.shields.io/badge/-Email-0078D4?logo=microsoft-outlook&logoColor=white" alt="Email Badge" />
   </a>
 </p>
-
----
-
